@@ -53,7 +53,8 @@ Example:
 	background: url($imgPath + 'icons/twitter.png') no-repeat 0 0
 	background-size: cover
 	imageReplace(40px, 40px)
-}```
+}
+```
 
 
 ## Beacon (for em-based media queries)
